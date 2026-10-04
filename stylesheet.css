@@ -34,3 +34,9 @@ body {
     border: 2px solid red;
     border-radius: 15px;
 }
+
+.texts {
+    overflow-wrap: break-word;
+    word-break: break-word;
+    hyphens: auto;
+}

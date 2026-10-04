@@ -24,7 +24,7 @@ body {
     background-color: hsla(348, 58%, 73%, 0.205);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
-    width: 20%;
+    width: 15em;
     height: 200px;
     border: 2px solid red;
     border-radius: 15px;
